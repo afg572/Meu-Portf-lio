@@ -1,0 +1,107 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(238, 250, 252);
+}
+.paginas_home {
+  margin-left: 80%;
+  font-size: 22px;
+}
+.paginas_sobre {
+  margin-left: 82.5%;
+  font-size: 22px;
+}
+.cabeçalho {
+  margin-top: 10px;
+  background-color: rgb(73, 72, 72);
+  color: rgb(214, 212, 212);
+  text-align: center;
+  padding: 20px;
+  width: 100%;
+  box-shadow: 0px 4px 2px -2px gray;
+}
+a {
+  color: black;
+  text-decoration: underline;
+  padding: 15px;
+}
+h2 {
+  color: rgb(29, 28, 28);
+}
+ul {
+  list-style-type: circle;
+  width: 50%;
+}
+li {
+  margin: 10px 0;
+  font-size: 18px;
+  color: rgb(50, 50, 50);
+}
+.meu_perfil {
+  display: flex;
+  align-items: center;
+  margin: 20px;
+}
+.foto_perfil {
+  margin-top: 20px;
+  border-radius: 60%;
+  width: 150px;
+  height: 150px;
+}
+.texto_perfil {
+  margin-left: 20px;
+}
+.lista_sobre {
+  margin-left: -30px;
+  font-size: 25px;
+}
+.li_itens {
+  margin-left: 40px;
+}
+.lista_hobbies {
+  font-size: 30px;
+}
+.finsol {
+  width: 150px;
+  height: 150px;
+  border-radius: 60%;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.texto_finsol{
+  max-width: 1250px;
+  margin: 30px
+}
+.logo_python{
+  width: 170px;
+  height: 170px;
+  border-radius: 60%;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.projetos_python{
+  margin: 30px;
+}
+.rep_github{
+  margin-left: 30px;
+}
+.logo_gmail{
+  width: 200px;
+  height: 200px;
+  border-radius: 60%;
+  margin-left: 30%
+}
+.logo_slack{
+  width: 200px;
+  height: 200px;
+  border-radius: 60%;
+  margin-left: 5%;
+}
+.logo_github{
+  width: 200px;
+  height: 200px;
+  border-radius: 60%;
+  margin-left: 5%;
+}
+.lista_contatos{
+  margin-top: 100px;
+}
